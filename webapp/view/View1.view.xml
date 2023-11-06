@@ -3,7 +3,9 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+					<Button id="idButton" text="Click Here" press="onClick"></Button>
+				</content>
 			</Page>
 		</pages>
 	</App>
